@@ -1,0 +1,10 @@
+.new {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+.postmodel {
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  background-color: rgba(39, 38, 38, 0.486);
+}
